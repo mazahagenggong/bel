@@ -1,0 +1,39 @@
+per-pelajaran
+30 7 * * 1-4,6 play /home/mazaha/Documents/bel/jam1.mp3
+30 7 * * 7 play /home/mazaha/Documents/bel/jam1.mp3
+30 8 * * 1-4,6 play /home/mazaha/Documents/bel/jam2.mp3
+30 8 * * 7 play /home/mazaha/Documents/bel/jam2.mp3
+30 9 * * 1-4,6 play /home/mazaha/Documents/bel/istirahat.mp3
+55 9 * * 1-4,6 play /home/mazaha/Documents/bel/istirahat5.mp3
+0 10 * * 1-4,6 play /home/mazaha/Documents/bel/jam3.mp3
+0 11 * * 1-4,6 pplay /home/mazaha/Documents/bel/jam4.mp3
+30 11 * * 7 play /home/mazaha/Documents/bel/akhir.mp3
+0 12 * * 1-4 play /home/mazaha/Documents/bel/istirahat.mp3
+0 12 * * 6 play /home/mazaha/Documents/bel/akhir.mp3
+30 12 * * 1-4 play /home/mazaha/Documents/bel/jam5.mp3
+30 13 * * 1-4 play /home/mazaha/Documents/bel/akhir.mp3
+
+
+per-jam
+30 7 * * 0-4,6 play /home/mazaha/Documents/bel/jam1.mp3
+0 8 * * 0-4,6 play /home/mazaha/Documents/bel/jam2.mp3
+30 8 * * 1-4,6 play /home/mazaha/Documents/bel/jam3.mp3
+0 9 * * 1-4,6 play /home/mazaha/Documents/bel/jam4.mp3
+30 9 * * 1-4,6 play /home/mazaha/Documents/bel/istirahat.mp3
+55 9 * * 1-4,6 play /home/mazaha/Documents/bel/istirahat5.mp3
+0 10 * * 1-4,6 play /home/mazaha/Documents/bel/jam5.mp3
+30 10 * * 1-4,6 play /home/mazaha/Documents/bel/jam6.mp3
+30 10 * * 0 play /home/mazaha/Documents/bel/akhir.mp3
+0 11 * * 1-4,6 play /home/mazaha/Documents/bel/jam7.mp3
+30 11 * * 1-4,6 play /home/mazaha/Documents/bel/jam8.mp3
+0 12 * * 1-4 play /home/mazaha/Documents/bel/istirahat.mp3
+0 12 * * 6 play /home/mazaha/Documents/bel/akhir.mp3
+30 12 * * 1-4 play /home/mazaha/Documents/bel/jam9.mp3
+0 13 * * 1-4 play /home/mazaha/Documents/bel/jam10.mp3
+30 13 * * 1-4 play /home/mazaha/Documents/bel/akhir.mp3
+
+
+
+
+
+
